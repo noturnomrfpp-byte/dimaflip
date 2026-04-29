@@ -1,106 +1,97 @@
 # Política de Privacidade — Dimaflip
 
-**Última atualização:** 13 de abril de 2025
-
-Esta Política de Privacidade descreve como o aplicativo **Dimaflip** ("nós", "nosso" ou "app") coleta, usa e protege as informações dos usuários ("você").
+**Última atualização:** 29/04/2026
 
 ---
 
-## 1. Informações que coletamos
+## 1. Quem somos
 
-### 1.1 Dados que NÃO coletamos
-O Dimaflip **não coleta** dados pessoais identificáveis. Não solicitamos e não temos acesso a:
-- Nome, e-mail ou senha
-- Número de telefone
-- Dados de localização
-- Contatos do dispositivo
-- Fotos ou arquivos
-- Dados de conta de jogos
+O **Dimaflip** é um aplicativo *fan-made* (de fãs, não-oficial) com ferramentas de entretenimento para jogadores de jogos *battle royale*. Não somos afiliados, patrocinados, endossados ou aprovados pela Garena, Free Fire ou qualquer outro desenvolvedor ou publicador de jogos eletrônicos. Todas as marcas mencionadas no aplicativo pertencem aos seus respectivos proprietários.
 
-### 1.2 Dados armazenados localmente
-As seguintes informações são armazenadas **exclusivamente no seu dispositivo** e nunca são transmitidas a servidores externos:
-- Nicks gerados e favoritos
-- Histórico de combinações
-- Progresso de missões diárias
-- Streak de login e moedas fictícias do app
-- Preferências de configuração (tema, sons)
+Esta política explica o que o aplicativo faz (e não faz) com os seus dados.
 
 ---
 
-## 2. Anúncios — Google AdMob
+## 2. Dados que NÃO coletamos
 
-Utilizamos o **Google AdMob** para exibir anúncios e manter o app gratuito. O SDK do AdMob pode coletar automaticamente:
+O Dimaflip **não coleta, transmite ou armazena dados pessoais em servidores externos**. Não solicitamos nem captamos:
 
-- **Advertising ID** (identificador de publicidade do dispositivo)
-- **Informações do dispositivo** (modelo, sistema operacional)
-- **Dados de interação** com anúncios
+- Nome, e-mail, telefone, senha ou qualquer credencial
+- Localização (GPS ou aproximada)
+- Contatos, fotos, vídeos ou arquivos do dispositivo
+- Histórico de navegação ou de outros aplicativos
+- Identificadores de dispositivo para rastreamento (Advertising ID, IMEI, MAC)
+- Dados de contas, perfis ou estatísticas de jogos
 
-Essas informações são coletadas e processadas pelo Google conforme a [Política de Privacidade do Google](https://policies.google.com/privacy).
-
-### Como desativar a personalização de anúncios:
-- Android: **Configurações > Google > Anúncios > Cancelar personalização de anúncios**
-
----
-
-## 3. Permissões utilizadas
-
-| Permissão | Finalidade |
-|-----------|-----------|
-| `INTERNET` | Carregamento de anúncios via AdMob |
-| `AD_ID` | Identificação para anúncios (Android 13+) |
-
-Não solicitamos permissões de câmera, microfone, localização, contatos, SMS ou armazenamento externo.
+Não há cadastro, login, conta de usuário ou qualquer mecanismo de autenticação no aplicativo.
 
 ---
 
-## 4. Compartilhamento de dados
+## 3. Dados que ficam apenas no seu dispositivo
 
-Não vendemos, alugamos nem compartilhamos seus dados pessoais com terceiros, **exceto**:
-- **Google AdMob**: conforme descrito na seção 2, para exibição de anúncios
+Para o aplicativo funcionar, algumas informações são guardadas localmente, no próprio aparelho, usando os mecanismos de armazenamento padrão do Android (Hive e SharedPreferences):
 
----
+- Histórico de nicks gerados
+- Histórico de combinações *fan-made* geradas
+- Itens favoritados
+- Sequência de *check-in* diário
+- Progresso de missões e do quiz
+- Moedas fictícias internas (sem valor monetário real e não-compráveis)
+- Preferências do app (tema escuro/claro, sons, animações)
 
-## 5. Segurança dos dados
-
-Todos os dados gerados pelo app ficam armazenados localmente no seu dispositivo com as proteções padrão do sistema Android. Ao desinstalar o app, todos os dados são removidos automaticamente.
-
----
-
-## 6. Moedas e recompensas internas
-
-As moedas, pontos e recompensas exibidos no Dimaflip são **fictícios e internos ao app**. Não possuem valor monetário real e não podem ser trocados por dinheiro, produtos ou serviços.
+Esses dados **nunca saem do seu dispositivo**. Quando você desinstala o aplicativo, todos eles são apagados automaticamente pelo sistema operacional.
 
 ---
 
-## 7. Menores de idade
+## 4. Permissões solicitadas
 
-O Dimaflip é destinado a usuários com **13 anos ou mais**. Não coletamos intencionalmente dados de crianças menores de 13 anos. Se você acredita que uma criança forneceu dados pessoais, entre em contato conosco.
+O Dimaflip declara apenas uma permissão Android: **`INTERNET`**.
+
+Ela é utilizada por bibliotecas de terceiros que o aplicativo usa internamente (por exemplo, *Google Fonts*, para carregar a tipografia DM Sans). O aplicativo em si **não realiza chamadas de rede para servidores próprios, não envia dados do usuário pela internet e não recebe instruções remotas**.
+
+Não acessamos câmera, galeria, microfone, contatos, localização, SMS, calendário, sensores biométricos ou qualquer outra permissão do dispositivo.
+
+---
+
+## 5. Compartilhamento com terceiros
+
+Não compartilhamos, vendemos, alugamos ou transmitimos dados a terceiros, simplesmente porque **não coletamos dados em primeiro lugar**.
+
+A única comunicação com servidores de terceiros é o download passivo de recursos públicos (como arquivos de fonte) por bibliotecas internas do aplicativo, sem envio de informações suas.
+
+---
+
+## 6. Crianças (menores de 13 anos)
+
+Este aplicativo é destinado a usuários com **13 anos ou mais**. Não coletamos intencionalmente dados de crianças menores de 13 anos. Se você é responsável legal por uma criança que está usando o app e tem dúvidas sobre privacidade, entre em contato pelo e-mail abaixo.
+
+---
+
+## 7. Seus direitos e como apagar seus dados
+
+Como todos os dados ficam exclusivamente no seu dispositivo, você tem controle total:
+
+- **Apagar o histórico:** vá em *Configurações → "Limpar histórico"* (apaga nicks e combinações geradas; favoritos e moedas são preservados).
+- **Apagar tudo:** desinstale o aplicativo. Todos os dados locais são removidos pelo sistema operacional.
+
+Em conformidade com a **LGPD (Lei Geral de Proteção de Dados, Lei nº 13.709/2018)**, você tem direito de acesso, retificação e exclusão dos seus dados pessoais. Como não armazenamos dados em servidores próprios, **não há informações suas sob nossa custódia remota** — todo o controle está com você, no seu próprio aparelho.
 
 ---
 
 ## 8. Alterações nesta política
 
-Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos sobre alterações significativas por meio de atualização no app ou nesta página. A data de "última atualização" no topo indica quando a política foi revisada pela última vez.
+Podemos atualizar esta política eventualmente, por exemplo quando novas funcionalidades forem adicionadas ao aplicativo. Mudanças significativas serão refletidas no campo "Última atualização" no topo desta página e descritas no histórico de versões na Google Play Store.
 
 ---
 
-## 9. Seus direitos (LGPD)
+## 9. Contato
 
-Conforme a **Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)**, você tem direito a:
-- Confirmação da existência de tratamento de dados
-- Acesso aos dados
-- Correção de dados incompletos ou incorretos
-- Eliminação dos dados
-- Informação sobre compartilhamento
+Para dúvidas, sugestões ou solicitações relacionadas a privacidade:
 
-Como não coletamos dados pessoais identificáveis, a maioria desses direitos é automaticamente garantida pela arquitetura local do app.
+📧 **contatodimaflip@gmail.com**
+
+Responderemos em prazo razoável.
 
 ---
 
-## 10. Contato
-
-Para dúvidas sobre esta Política de Privacidade, entre em contato através da página do app na **Google Play Store**.
-
----
-
-*Dimaflip é um aplicativo independente de ferramentas para jogadores.*
+*Dimaflip é um aplicativo independente, criado por fãs, sem afiliação com qualquer desenvolvedor de jogos eletrônicos.*
