@@ -6,9 +6,7 @@
 
 ## 1. Quem somos
 
-O **Dimaflip** é um aplicativo *fan-made* (de fãs, não-oficial) com ferramentas de entretenimento para jogadores de jogos *battle royale*. Não somos afiliados, patrocinados, endossados ou aprovados pela Garena, Free Fire ou qualquer outro desenvolvedor ou publicador de jogos eletrônicos. Todas as marcas mencionadas no aplicativo pertencem aos seus respectivos proprietários.
-
-Esta política explica o que o aplicativo faz (e não faz) com os seus dados.
+O **Dimaflip** é um aplicativo independente com ferramentas de entretenimento e utilitários para jogadores. Esta política explica o que o aplicativo faz (e não faz) com os seus dados.
 
 ---
 
@@ -32,7 +30,7 @@ Não há cadastro, login, conta de usuário ou qualquer mecanismo de autenticaç
 Para o aplicativo funcionar, algumas informações são guardadas localmente, no próprio aparelho, usando os mecanismos de armazenamento padrão do Android (Hive e SharedPreferences):
 
 - Histórico de nicks gerados
-- Histórico de combinações *fan-made* geradas
+- Histórico de combinações geradas
 - Itens favoritados
 - Sequência de *check-in* diário
 - Progresso de missões e do quiz
@@ -94,4 +92,4 @@ Responderemos em prazo razoável.
 
 ---
 
-*Dimaflip é um aplicativo independente, criado por fãs, sem afiliação com qualquer desenvolvedor de jogos eletrônicos.*
+*Dimaflip é um aplicativo independente de utilitários para jogadores.*
