@@ -1,124 +1,100 @@
 # Termos de Uso — Dimaflip
 
-**Última atualização:** 13 de abril de 2025
-
-Bem-vindo ao **Dimaflip**. Ao baixar, instalar ou usar este aplicativo, você concorda com os presentes Termos de Uso. Leia-os com atenção antes de usar o app.
+**Última atualização:** 29/04/2026
 
 ---
 
 ## 1. Aceitação dos Termos
 
-Ao acessar ou usar o Dimaflip, você confirma que:
-- Tem pelo menos 13 anos de idade
-- Leu e concorda com estes Termos de Uso
-- Leu e concorda com nossa [Política de Privacidade](./privacy-policy)
-
-Se não concordar com qualquer parte destes termos, não utilize o app.
+Ao baixar, instalar ou usar o aplicativo **Dimaflip** ("aplicativo" ou "app"), você concorda com estes Termos de Uso e com a [Política de Privacidade](https://github.com/noturnomrfpp-byte/dimaflip/blob/main/privacy-policy.md). Se você não concordar com qualquer parte destes Termos, não utilize o aplicativo e desinstale-o do seu dispositivo.
 
 ---
 
 ## 2. Descrição do Serviço
 
-O Dimaflip é um aplicativo de **ferramentas e entretenimento para jogadores**, oferecendo:
+O Dimaflip é um aplicativo **NÃO OFICIAL**, criado por fãs, que oferece ferramentas de entretenimento como gerador de nicks criativos, simulador de combinações *fan-made*, gerador de sensibilidade *fan-made*, missões internas, quiz, glossário gamer e sistema de moedas fictícias.
 
-- **Gerador de Nick** — criação de apelidos criativos para games
-- **Gerador de Sensibilidade** — sugestões de configuração para dispositivos
-- **Glossário Gamer** — dicionário de termos e gírias do universo gamer
-- **Quiz Gamer** — perguntas de conhecimentos sobre games
-- **Fan Code** — simulador de combinações aleatórias para diversão
-- **Login Diário e Missões** — sistema de engajamento interno com recompensas fictícias
+Este app **não tem qualquer afiliação, parceria, patrocínio ou aprovação** da Garena, Free Fire ou de qualquer outro desenvolvedor, publicador ou detentor de direitos de jogos eletrônicos. Todas as marcas mencionadas pertencem aos seus respectivos proprietários.
 
 ---
 
 ## 3. Uso Permitido
 
-Você pode usar o Dimaflip para:
-- Entretenimento e diversão pessoal
-- Criação de nicks para uso em jogos
-- Aprendizado de termos do universo gamer
+Você pode usar o aplicativo livremente para entretenimento pessoal, em conformidade com estes Termos e com a legislação brasileira aplicável. É vedado:
+
+- Usar o app para atividades ilegais, fraudulentas ou que prejudiquem terceiros
+- Tentar enganar outros usuários simulando códigos promocionais oficiais, brindes oficiais ou recompensas reais
+- Realizar engenharia reversa, descompilação ou modificação não autorizada do código
+- Redistribuir o app ou trechos de seu conteúdo para fins comerciais
+- Utilizar o app para violar direitos de propriedade intelectual de terceiros
 
 ---
 
-## 4. Uso Proibido
+## 4. Natureza Fan-Made e Isenção de Responsabilidade
 
-É expressamente **proibido** usar o Dimaflip para:
-- Qualquer atividade ilegal ou fraudulenta
-- Enganar outros usuários ou terceiros
-- Violar direitos de propriedade intelectual
-- Tentar realizar engenharia reversa do app
-- Distribuir conteúdo malicioso ou ofensivo
-- Qualquer uso que viole as leis brasileiras ou internacionais
+As funcionalidades do Dimaflip — incluindo, mas não limitadas a, nicks gerados, combinações *fan-made*, sensibilidades sugeridas, missões e quiz — são **fictícias e oferecidas apenas para entretenimento**.
+
+Especificamente:
+
+- **Combinações *fan-made*** geradas no app NÃO representam códigos promocionais reais, brindes, diamantes, moedas ou qualquer item de valor de qualquer jogo ou serviço.
+- **Sensibilidades sugeridas** são valores *fan-made* aleatórios para experimentação. Não há configuração "perfeita" universal e o app não garante que esses valores melhorem seu desempenho em qualquer jogo.
+- **Moedas exibidas no app** são fictícias, internas, não-compráveis com dinheiro real e sem qualquer valor monetário ou conversibilidade.
+- **Nicks gerados** são sugestões de combinação textual e não garantem disponibilidade em qualquer plataforma de jogo.
+
+O Dimaflip é fornecido "no estado em que se encontra", sem garantias de funcionamento ininterrupto, ausência de erros ou adequação a qualquer finalidade específica.
 
 ---
 
 ## 5. Propriedade Intelectual
 
-O nome **Dimaflip**, o logotipo, o design, o código-fonte e todo o conteúdo original do app são de propriedade exclusiva dos desenvolvedores e protegidos por direitos autorais.
+O nome **Dimaflip**, seu logo, identidade visual e o código-fonte deste aplicativo são originais e pertencem aos seus criadores. Não utilizamos marcas, logos, arte gráfica, sons ou qualquer outro material de jogos de terceiros dentro do aplicativo.
 
-É proibido copiar, reproduzir, distribuir ou criar obras derivadas sem autorização expressa por escrito.
-
----
-
-## 6. Moedas e Recompensas Internas
-
-As moedas, pontos, badges e recompensas disponíveis no Dimaflip são **exclusivamente fictícios e internos ao aplicativo**:
-
-- Não possuem valor monetário real
-- Não podem ser convertidos em dinheiro, créditos ou produtos
-- Não representam qualquer tipo de obrigação financeira dos desenvolvedores
-- Podem ser resetados a qualquer momento sem aviso prévio
+Os termos de domínio público referentes a vocabulário gamer (presentes no Glossário e Quiz) são apresentados em caráter educativo/informativo.
 
 ---
 
-## 7. Anúncios
+## 6. Privacidade e Dados
 
-O Dimaflip é gratuito e financiado por anúncios do **Google AdMob**. Ao usar o app, você concorda com a exibição de anúncios de terceiros. Os anúncios são fornecidos pelo Google e sujeitos à [Política de Privacidade do Google](https://policies.google.com/privacy).
-
----
-
-## 8. Isenção de Responsabilidade
-
-O Dimaflip é fornecido **"no estado em que se encontra"**, sem garantias de qualquer tipo, expressas ou implícitas. Não nos responsabilizamos por:
-
-- Interrupções ou falhas no serviço
-- Perda de dados armazenados localmente
-- Decisões tomadas com base nas sugestões do app (sensibilidade, nicks, etc.)
-- Danos indiretos, incidentais ou consequenciais
-
-As sugestões de sensibilidade e nicks são geradas para **fins de entretenimento** e não garantem resultados específicos em jogos.
+O tratamento dos seus dados é descrito em detalhes na [Política de Privacidade](https://github.com/noturnomrfpp-byte/dimaflip/blob/main/privacy-policy.md) do aplicativo, parte integrante destes Termos. Em resumo: o app é *offline-first*, não coleta dados pessoais e armazena tudo localmente no seu dispositivo.
 
 ---
 
-## 9. Disponibilidade do Serviço
+## 7. Disponibilidade do Serviço
 
-Reservamo-nos o direito de:
-- Modificar, suspender ou encerrar o app a qualquer momento
-- Alterar funcionalidades sem aviso prévio
-- Remover conteúdo que viole estes termos
+Podemos modificar, suspender ou descontinuar o aplicativo (ou parte dele) a qualquer momento, sem aviso prévio. Não nos responsabilizamos por perdas de dados locais decorrentes de desinstalação, defeitos do dispositivo, restauração de fábrica ou qualquer evento externo ao próprio aplicativo.
 
 ---
 
-## 10. Alterações nos Termos
+## 8. Limitação de Responsabilidade
 
-Podemos atualizar estes Termos de Uso periodicamente. Alterações significativas serão comunicadas por meio de atualização no app. O uso contínuo do Dimaflip após alterações constitui aceitação dos novos termos.
+Na máxima extensão permitida pela lei brasileira, o Dimaflip e seus criadores **não se responsabilizam** por:
 
----
+- Danos diretos ou indiretos decorrentes do uso ou impossibilidade de uso do aplicativo
+- Resultados em jogos eletrônicos ao seguir sugestões *fan-made* do app
+- Decisões tomadas pelo usuário com base nas informações exibidas no app
 
-## 11. Lei Aplicável e Foro
-
-Estes Termos de Uso são regidos pelas leis da **República Federativa do Brasil**, especialmente:
-- **Código de Defesa do Consumidor (Lei nº 8.078/1990)**
-- **Marco Civil da Internet (Lei nº 12.965/2014)**
-- **Lei Geral de Proteção de Dados — LGPD (Lei nº 13.709/2018)**
-
-Fica eleito o foro da comarca do domicílio do usuário para resolução de quaisquer disputas.
+Esta limitação não exclui direitos previstos no **Código de Defesa do Consumidor (Lei nº 8.078/1990)** que sejam aplicáveis e indisponíveis.
 
 ---
 
-## 12. Contato
+## 9. Alterações nestes Termos
 
-Para dúvidas, sugestões ou reportar violações destes termos, entre em contato através da página do app na **Google Play Store**.
+Podemos atualizar estes Termos de Uso eventualmente. Mudanças significativas serão refletidas no campo "Última atualização" no topo desta página. O uso continuado do aplicativo após uma atualização representa aceitação dos novos Termos.
 
 ---
 
-*Dimaflip — Ferramentas para jogadores.*
+## 10. Lei Aplicável e Foro
+
+Estes Termos são regidos pelas leis da **República Federativa do Brasil**. Eventuais litígios serão resolvidos no foro do domicílio do usuário, conforme prevê o Código de Defesa do Consumidor.
+
+---
+
+## 11. Contato
+
+Para dúvidas sobre estes Termos, entre em contato pelo e-mail:
+
+📧 **contatodimaflip@gmail.com**
+
+---
+
+*Dimaflip é um aplicativo independente, criado por fãs, sem afiliação com qualquer desenvolvedor de jogos eletrônicos.*
